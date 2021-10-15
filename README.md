@@ -40,7 +40,7 @@ Meu nome é Rodrigo de Souza Antunes, sou Desenvolvedor Android apaixonado por D
 * Lógica de Programação.
 * Inglês suficiente para ler e entender filmes e podcasts.
 
-### Sistemas Operacionais
+### :bookmark: Sistemas Operacionais 
 * Windows
 
 ### :robot: Desenvolvimento Android 
@@ -61,7 +61,7 @@ Meu nome é Rodrigo de Souza Antunes, sou Desenvolvedor Android apaixonado por D
   <img align="center" alt="Dart" height="80" width="80" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original-wordmark.svg">
 </div>
 
-###  Banco de Dados 
+###  :lock: Banco de Dados 
 
 <div>
 <img align="center" alt="SQLite" height="60" width="144" src="https://www.sqlite.org/images/sqlite370_banner.gif">
