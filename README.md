@@ -23,19 +23,6 @@ Meu nome é Rodrigo de Souza Antunes, sou Desenvolvedor Android apaixonado por D
   * Responsável pela manutenção e configuração da rede TCP/IP. 
   * Responsável pela utilização  e treinamento no Sistema utilizado. ( [go2 Sistemas](https://www.go2sistemas.com.br/) )
 
-* (2013 -  2014)
-  **E.J.M. DOS SANTOS** -
-  Estoquista.
-  * Responsável pela entrada e saída de produtos no Estoque.
-  * Responsável pela  organização e limpeza do Estoque.
-
-* (2010 -  2012)
-  **DROGRARIA CIPRIANO DE SANTA ROSA** -
-  Auxiliar de Loja.
-  * Responsável pela Limpeza da loja.
-  * Responsável pela transferência de Produtos.
-  * Responsável pela sessão de fraldas..
-
 ## :thinking: Conhecimentos Gerais
 * Lógica de Programação.
 * Inglês suficiente para ler e entender filmes e podcasts.
